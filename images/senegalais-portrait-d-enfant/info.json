@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 14,
+    "height" : 18
+  }, {
+    "width" : 28,
+    "height" : 36
+  }, {
+    "width" : 55,
+    "height" : 72
+  }, {
+    "width" : 109,
+    "height" : 144
+  }, {
+    "width" : 218,
+    "height" : 287
+  }, {
+    "width" : 435,
+    "height" : 573
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 435,
+  "@id" : "https://ballestrimg.github.io/iiif_project/images/senegalais-portrait-d-enfant",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 573
+}
