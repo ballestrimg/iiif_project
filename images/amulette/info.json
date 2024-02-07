@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 12,
+    "height" : 18
+  }, {
+    "width" : 24,
+    "height" : 36
+  }, {
+    "width" : 48,
+    "height" : 72
+  }, {
+    "width" : 96,
+    "height" : 144
+  }, {
+    "width" : 191,
+    "height" : 287
+  }, {
+    "width" : 381,
+    "height" : 573
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 381,
+  "@id" : "https://ballestrimg.github.io/iiif_project/images/amulette",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 573
+}
