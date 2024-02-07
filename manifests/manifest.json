@@ -1,0 +1,205 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://ballestrimg.github.io/iiif_project/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "This is a wonderful manifest created by Gilmar",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "This is a collection of images about African Art History and colonialism in African continent",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Musée du quai Branly",
+  "sequences" : [ {
+    "@id" : "http://d63afa79-1bc0-40f9-8c71-98a8323eccd7",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://781acb9c-bdfd-4805-885c-3e0739bebc59",
+      "@type" : "sc:Canvas",
+      "label" : "Chapeau",
+      "height" : 573,
+      "width" : 863,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://28710388-520c-4570-88be-4034b1fcca56",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ballestrimg.github.io/iiif_project/images/chapeau/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ballestrimg.github.io/iiif_project/images/chapeau",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 573,
+          "width" : 863
+        },
+        "on" : "http://781acb9c-bdfd-4805-885c-3e0739bebc59"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://25f89d89-ec66-4300-81c6-239b85b8c232",
+      "@type" : "sc:Canvas",
+      "label" : "Poignard avec son fourreau",
+      "height" : 573,
+      "width" : 393,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://ae7b6a73-d6ed-4d88-acac-7dce445f567e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ballestrimg.github.io/iiif_project/images/poignard-avec-son-fourreau/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ballestrimg.github.io/iiif_project/images/poignard-avec-son-fourreau",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 573,
+          "width" : 393
+        },
+        "on" : "http://25f89d89-ec66-4300-81c6-239b85b8c232"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://f4eb4f54-44e6-4adf-9ed8-ab9db19368cb",
+      "@type" : "sc:Canvas",
+      "label" : "Portrait d'un enfant",
+      "height" : 573,
+      "width" : 435,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://01766302-fa69-4373-b865-119f6b290343",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ballestrimg.github.io/iiif_project/images/senegalais-portrait-d-enfant/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ballestrimg.github.io/iiif_project/images/senegalais-portrait-d-enfant",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 573,
+          "width" : 435
+        },
+        "on" : "http://f4eb4f54-44e6-4adf-9ed8-ab9db19368cb"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://249c9402-7ca4-44ec-90be-3b1d157174aa",
+      "@type" : "sc:Canvas",
+      "label" : "Ouali-Médiale Sérère",
+      "height" : 573,
+      "width" : 741,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://fa4597f6-fe41-4ddc-bb3b-f518108226a7",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ballestrimg.github.io/iiif_project/images/ouali-mediale-serere/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ballestrimg.github.io/iiif_project/images/ouali-mediale-serere",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 573,
+          "width" : 741
+        },
+        "on" : "http://249c9402-7ca4-44ec-90be-3b1d157174aa"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://2994d8d4-4036-4355-be46-2c3ef70e2628",
+      "@type" : "sc:Canvas",
+      "label" : "Couteau",
+      "height" : 573,
+      "width" : 393,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://088b312d-3d69-4cdb-97ec-8e0d1107cece",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ballestrimg.github.io/iiif_project/images/couteau/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ballestrimg.github.io/iiif_project/images/couteau",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 573,
+          "width" : 393
+        },
+        "on" : "http://2994d8d4-4036-4355-be46-2c3ef70e2628"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://0c152e25-546a-4333-9b26-361893946341",
+      "@type" : "sc:Canvas",
+      "label" : "Amulette",
+      "height" : 573,
+      "width" : 381,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8982dd2d-5537-42ce-80c4-de098d487492",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ballestrimg.github.io/iiif_project/images/amulette/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ballestrimg.github.io/iiif_project/images/amulette",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 573,
+          "width" : 381
+        },
+        "on" : "http://0c152e25-546a-4333-9b26-361893946341"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://3609b136-e033-4377-9bd5-6804da3f5ee3",
+      "@type" : "sc:Canvas",
+      "label" : "Service religieux pour les victimes de la dernière expedition contre Amadou Sékou, Lat Dior N'Goné rétabli sur son trône par nos troupes.",
+      "height" : 573,
+      "width" : 713,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5f3ef43c-a7fc-44d4-927b-dbca9962475e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ballestrimg.github.io/iiif_project/images/service-religieux-pour-les-victimes-de-la-derniere-expedition-contre-amadou-sekou-lat-dior-ngone-roi-de-cayor-retabli-sur-son-trone-par-nos-troupes/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ballestrimg.github.io/iiif_project/images/service-religieux-pour-les-victimes-de-la-derniere-expedition-contre-amadou-sekou-lat-dior-ngone-roi-de-cayor-retabli-sur-son-trone-par-nos-troupes",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 573,
+          "width" : 713
+        },
+        "on" : "http://3609b136-e033-4377-9bd5-6804da3f5ee3"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
