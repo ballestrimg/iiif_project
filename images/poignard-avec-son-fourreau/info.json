@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 13,
+    "height" : 18
+  }, {
+    "width" : 25,
+    "height" : 36
+  }, {
+    "width" : 50,
+    "height" : 72
+  }, {
+    "width" : 99,
+    "height" : 144
+  }, {
+    "width" : 197,
+    "height" : 287
+  }, {
+    "width" : 393,
+    "height" : 573
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 393,
+  "@id" : "https://ballestrimg.github.io/iiif_project/images/poignard-avec-son-fourreau",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 573
+}
