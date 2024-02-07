@@ -1,0 +1,13 @@
+{
+  "id" : "https://ballestrimg.github.io/iiif_project/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in ballestrimg/iiif_project project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://ballestrimg.github.io/iiif_project/manifests/manifest.json",
+    "label" : "This is a wonderful manifest created by Gilmar"
+  } ]
+}
